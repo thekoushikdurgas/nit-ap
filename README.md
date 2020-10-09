@@ -4,6 +4,12 @@
 <img align="center" src="https://github.com/nit-ap/nit-ap/blob/main/NITAP.png" />
 
 </p>
+<hr>
+
+<p align="center">Visitor count<br><img src="https://profile-counter.glitch.me/suubh/count.svg" /></p>
+
+<hr>
+
 
 
 ## Introduction
