@@ -6,7 +6,7 @@
 </p>
 <hr>
 
-<p align="center">Visitor count<br><img src="https://profile-counter.glitch.me/suubh/count.svg" /></p>
+<p align="center">Visitor count<br><img src="https://profile-counter.glitch.me/nit-ap/count.svg" /></p>
 
 <hr>
 
