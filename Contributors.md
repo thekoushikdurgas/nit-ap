@@ -49,7 +49,12 @@ git checkout -b suubh-contribution
 
 
 
-Now open `README.md` file in a text editor or VS Code, add your name to it.Now, save the file.
+Now open `README.md` file in a text editor or VS Code, add your name to it.
+```
+<li><a href="your github link">Yourname here</a></li>
+
+```
+Now, save the file.
 
 <img align="right" width="450" src="firstpr/git-status.png" alt="git status" />
 
