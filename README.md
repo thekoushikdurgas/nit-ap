@@ -9,7 +9,9 @@
 ## Introduction
 Welcome to NIT Arunachal Pradesh Developer Club . This is an organization for all the students of <a href="https://www.nitap.ac.in/">NIT AP</a>.
 #### Some important links 
-- <a href="https://www.nitap.ac.in/quick/CodingClub/home/">Coding Club</a> of NIT Arunachal Pradesh.
+<ul>
+  <li><a href="https://www.nitap.ac.in/quick/CodingClub/home/">Coding Club</a> of NIT Arunachal Pradesh.</li>
+<ul>
 <br>
 ## Contributors 
 Here is the list of our amazing contributors .
