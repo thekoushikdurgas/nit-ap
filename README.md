@@ -1,7 +1,7 @@
 # nit-ap
 <p align="center">
 
-<img align="center" src="https://www.nitap.ac.in/index.php" />
+<img align="center" src="https://github.com/nit-ap/nit-ap/blob/main/NITAP.png" />
 
 </p>
 
