@@ -1,10 +1,14 @@
-Change to the repository directory on your computer (if you are not already there):
+<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+
+If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
+
+## Fork this repository
+
+<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+
+Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the clone button and then click the *copy to clipboard* icon.
 
 
-
-```
-
-cd first-contributions
 
 ```
 
@@ -111,6 +115,4 @@ Now submit the pull request.
 
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
-
-
 
