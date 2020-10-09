@@ -12,7 +12,7 @@ Welcome to NIT Arunachal Pradesh Developer Club . This is an organization for al
 ## Contributors 
 Here is the list of our amazing contributors .
 <ul>
-  <li>[Manikant Kumar](https://github.com/devil-cyber)</li>
-  <li>[Shubham Singh](https://github.com/suubh)</li>
+  <li><a href="https://github.com/devil-cyber">Manikant Kumar</a></li>
+  <li><a href="https://github.com/suubh">Shubham Singh</a></li>
 </ul>
 
