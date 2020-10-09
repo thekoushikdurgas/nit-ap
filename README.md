@@ -12,7 +12,7 @@
 
 
 
-## Introduction
+## Introduction ✨
 Welcome to NIT Arunachal Pradesh Developer Club . This is an organization for all the students of <a href="https://www.nitap.ac.in/">NIT AP</a>.
 ## Some important links 
 <ul>
@@ -21,7 +21,7 @@ Welcome to NIT Arunachal Pradesh Developer Club . This is an organization for al
 
 <br>
 
-## Contributors 
+## 🤝 Contributors 
 Here is the list of our amazing contributors .
 <ul>
   <li><a href="https://github.com/devil-cyber">Manikant Kumar</a></li>
