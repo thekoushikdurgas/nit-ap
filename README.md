@@ -11,7 +11,7 @@ Welcome to NIT Arunachal Pradesh Developer Club . This is an organization for al
 #### Some important links 
 <ul>
   <li><a href="https://www.nitap.ac.in/quick/CodingClub/home/">Coding Club</a> of NIT Arunachal Pradesh.</li>
-<ul>
+</ul>
 <br>
 ## Contributors 
 Here is the list of our amazing contributors .
@@ -19,5 +19,5 @@ Here is the list of our amazing contributors .
   <li><a href="https://github.com/devil-cyber">Manikant Kumar</a></li>
   <li><a href="https://github.com/suubh">Shubham Singh</a></li>
 </ul>
-Add yourself in the contributors list by making your first Pull request in this organization. 
+* Add yourself in the contributors list by making your first Pull request in this organization. 
 
